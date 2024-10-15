@@ -74,3 +74,36 @@ Found a long document that he needs to go through to see if there's anything use
 ### Wireframe in Moqup
 
 [Click to view wireframe in Moqup](https://app.moqups.com/hePxLnsl2Jw0MpTlrXftiP8AS446wnJp/view/page/ac1a04925)
+
+## User Epics
+As a theology PhD student, I want to be able to easily upload and download (searchable versions of) PDF files so I can easily search old and difficult-to-read documents
+
+## User Stories
+
+### Story 1
+As a theology PhD student, I want to see a front page with a video explaining how it works so I can evaluate if it's what I need, and see how to proceed
+
+### Story 2
+As a theology PhD student, I want to easily drag and drop to upload so I can quickly get the document back
+
+### Story 3
+As a theology PhD student, I want a simple link to download my document, so I can start searching it right away
+
+### Story 4
+As a theology PhD student, I want the outputted PDF to be searchable, so I can search it
+
+### Story 5
+As a theology PhD student, I want the searchable PDF to retain the same scanned images/text, so I can still use it as a historical document
+
+### Story 6
+As a theology PhD student, I want to see a progress bar or some other form of indicator that my request is being processed, so I don't have to worry if the conversion takes a long time.
+
+## Technical Challenges (stuff I don't know how to do)
+* Extracting the text into a PDF page of some kind
+* layering a PDF with multiple layers (searchable)
+* Uploading/downloading documents to cloud somehow (not saving) that can be accessed by a algorithm
+* Building a simple cloud-hosted website
+
+## Development Backlog
+
+[Click to view backlog in Trello](https://trello.com/b/msgvvFoS)
