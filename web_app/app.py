@@ -8,5 +8,3 @@ def index():
 
 if __name__ == "__main__":
     app.run()
-
-# To run in debug mode, enter: flask run --debug
