@@ -1,12 +1,10 @@
 from flask import Flask
-
 app = Flask(__name__)
 
 @app.route('/')
-def index():
-    return 'Hello, world!'
+def hello_geek():
+    return '<h1>Hello from Flask & Docker</h2>'
+
 
 if __name__ == "__main__":
-    app.run()
-
-# To run in debug mode, enter: flask run --debug
+    app.run(debug=True)
